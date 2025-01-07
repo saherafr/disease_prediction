@@ -29,5 +29,5 @@ The **Diabetes Prediction App** allows users to input medical parameters (such a
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/saherafr/disease_prediction.git)
    cd diabetes_prediction
