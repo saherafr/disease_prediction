@@ -1,0 +1,1 @@
+INFO:root:{'Pregnancies': 2, 'Glucose': 120, 'Blood Pressure': 80, 'Skin Thickness': 34, 'Insulin': 85, 'BMI': 28.5, 'Diabetes Pedigree': 0.5, 'Age': 30, 'Prediction': 'Diabetic', 'Probability': 0.6}
