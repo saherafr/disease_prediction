@@ -31,3 +31,17 @@ The **Diabetes Prediction App** allows users to input medical parameters (such a
    ```bash
    git clone (https://github.com/saherafr/disease_prediction.git)
    cd diabetes_prediction
+2. install dependencies
+   pip install -r requirements.txt
+3. run
+   streamlit run app.py
+## Structure
+  disease_prediction/
+├── app.py               # Main Streamlit app
+├── best_diabetes_model.pkl  # Trained model
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
+## Model Performance
+The machine learning models were trained using the PIMA Indians Diabetes Dataset.
+Accuracy: 85%
+ROC-AUC Score: 0.89
